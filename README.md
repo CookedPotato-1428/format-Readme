@@ -214,9 +214,9 @@ example:
 you can an imoji by typing ` :EMOJICODE: ` <br/>
 example:
 ```
-thumbsup :+1:
+thumbs up :+1:
 ```
-thumbsup :+1:
+thumbs up :+1:
 
 # Footnotes<sup>taken directly from [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) because i was having issues rendering the footnotes<sup>
 
