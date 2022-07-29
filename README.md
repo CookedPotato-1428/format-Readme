@@ -236,10 +236,11 @@ You can also use words, to fit your writing style more closely[^note].
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 
 ```
-the footnote will render like this :
+<p> the footnote will render like this : </p>
+ 
 <img src="https://docs.github.com/assets/cb-6343/images/site/rendered-footnote.png" height="230" width="400" />
-e
-irrespective of where you put your derefenced footnote, it will always appear at the bottom
+ 
+ <p> irrespective of where you put your derefenced footnote, it will always appear at the bottom</p>
 
 
 # Hiding contents
@@ -336,14 +337,14 @@ use this syntax:
 when creating code blocks addd the language name after the intial quotes to give it syntax highlighting <br/>
 example:
 ````
-```typescript
+```ts
 const newFunction =(name: string):string=>{
     return " hello there " + name ;
 };
 ```
 ````
 
-```typescript
+```ts
 const Hello = (name:string):string =>{
     return " hello there " + name ;
 };
